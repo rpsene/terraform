@@ -432,7 +432,7 @@ github.com/svanharmelen/jsonapi
 github.com/terraform-providers/terraform-provider-aws/aws
 # github.com/terraform-providers/terraform-provider-openstack v0.0.0-20170616075611-4080a521c6ea
 github.com/terraform-providers/terraform-provider-openstack/openstack
-# github.com/ugorji/go/codec v0.0.0-20190128213124-ee1426cffec0
+# github.com/ugorji/go v0.0.0-20170107133203-ded73eae5db7
 github.com/ugorji/go/codec
 # github.com/ulikunitz/xz v0.5.4
 github.com/ulikunitz/xz

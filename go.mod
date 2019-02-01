@@ -113,7 +113,7 @@ require (
 	github.com/terraform-providers/terraform-provider-openstack v0.0.0-20170616075611-4080a521c6ea
 	github.com/terraform-providers/terraform-provider-template v1.0.0 // indirect
 	github.com/terraform-providers/terraform-provider-tls v1.2.0 // indirect
-	github.com/ugorji/go/codec v0.0.0-20190128213124-ee1426cffec0 // indirect
+	github.com/ugorji/go v0.0.0-20170107133203-ded73eae5db7 // indirect
 	github.com/ulikunitz/xz v0.5.4 // indirect
 	github.com/xanzy/ssh-agent v0.2.0
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
