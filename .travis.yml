@@ -1,7 +1,12 @@
-dist: trusty
-sudo: required
+dist: xenial
+
+os:
+  - linux
+  - linux-ppc64le
+
 services:
   - docker
+  
 language: go
 go:
 - "1.11.5"
